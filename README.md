@@ -13,3 +13,7 @@ Involves the following steps:
 
 For in-depth details, refer to method-1 of the paper: **"Use of simple polygonal chains in generating random simple polygons"**
 https://link.springer.com/article/10.1007/s13160-017-0258-8
+
+
+https://user-images.githubusercontent.com/52124348/144375392-9c5e6765-57e5-469c-a899-733137ffbe1e.mov
+
